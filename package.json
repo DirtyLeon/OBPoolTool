@@ -1,0 +1,24 @@
+{
+  "name": "com.dirtyworks.obpooltool",
+  "version": "1.0.0",
+  "displayName": "DW OBPoolTool",
+  "description": "A modualized Object Pool integration for Unity.",
+  "unity": "2021.3",
+  "keywords": [
+    "Object Pool",
+    "Pooling",
+    "DirtyWorks"
+  ],
+  "author": {
+    "name": "DirtyLeon",
+    "email": "bsexp357079@gmail.com",
+    "url": "https://sites.google.com/view/dirtyworksstudio"
+  },
+  "samples": [
+        {
+            "displayName": "OBPool sample",
+            "description": "Contains a semple scene for testing Object Pooling",
+            "path": "Samples~/OBPool sample"
+        }
+    ]
+}
